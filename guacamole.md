@@ -4,5 +4,5 @@
 * Lime
 * Salt
 ## Instructions
-*First of all peel the avocado
-*Then mix the ingredients
+* First of all peel the avocado
+* Then mix the ingredients
